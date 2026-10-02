@@ -31,4 +31,10 @@ email = "sedanur@g.skku.edu"
   icon = "orcid"
   icon_pack = "ai"
   link = "https://orcid.org/0009-0007-0737-838X"
+
+[[social]]
+  icon = "globe"
+  icon_pack = "fas"
+  link = "https://sedanur-kabadayi.github.io"
+  alt = "Personal website"
 +++
